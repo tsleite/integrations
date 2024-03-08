@@ -1,4 +1,5 @@
-![](https://www.ansible.com/hubfs/RedHat-Ansible-Automation-Platform_logo-white-1.png) ![](https://fj.com.br/wp-content/uploads/2017/03/Suporte-Zabbix-1024x576.webp)
+![](https://github.com/tsleite/integrations/blob/master/img/RHEL.png) ![](https://github.com/tsleite/integrations/blob/master/img/ZABBIX.webp)
+
 
 
 # Integrated solutions:
